@@ -1,4 +1,5 @@
 #Static Website
+
 Hyundai Website Clone
 This repository contains the HTML and CSS code for a simplified Hyundai website clone. The web page replicates the basic structure and layout of the Hyundai website, including a header with navigation links, a search bar, and sections for different car models.
 
