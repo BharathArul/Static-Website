@@ -16,7 +16,7 @@ Dealer Locator: Section-4 helps users find a Hyundai dealer near them and get in
 Responsive Design: The webpage is designed to be responsive, ensuring a seamless experience across different devices.
 Usage
 
-Clone the repository: 
+Clone the repository: https://github.com/BharathArul/Static-Website.git
 
 Open the index.html file in a web browser to view the Hyundai website clone.
 Feel free to modify and customize the code according to your needs.
